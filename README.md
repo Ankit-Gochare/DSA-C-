@@ -1,2 +1,2 @@
-# DSA-C-
+# DSA-C++
 codes of C++
